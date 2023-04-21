@@ -42,3 +42,11 @@ var productExceptSelf = function(nums) {
 
 console.log(productExceptSelf([2,3,4,5]))
 
+// result = []
+// result = [1, 2, 6, 24]
+// postfix =1
+// postfix=5
+// result = [1, 2, 30 ,24]
+// postfix = 20
+// result =[1, 40, 30, 24]
+// 
